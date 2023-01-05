@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(156, 74, 74);
+}
+
+.book-page {
+    margin-top: auto;
+    margin-right: 30%;
+    margin-bottom: auto;
+    margin-left: 30%;
+    background-color: rgb(190, 154, 125);
+    padding-top: 2%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+    box-shadow: 0 0 10px;
+}
+
+.table-n-video {
+    margin-top: 100px;
+}
+
+p {
+    text-indent: 3%;
+}
+
+.pic-hp {
+    width: 50%;
+    float: right;
+    margin: 7px 7px 7px 7px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#Заметка5, #Заметка4, #Заметка3, #Заметка2, #Заметка1 {
+    color: rgb(26, 145, 2);
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.chapter {
+    font-weight: bold;
+}
+
+.red-word {
+    color: brown;
+    font-size: 24px;
+}
+
+.top {
+    text-align: right;
+}
